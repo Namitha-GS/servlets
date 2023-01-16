@@ -1,1 +1,1 @@
-
+Lets add using doGet() instead of service()
