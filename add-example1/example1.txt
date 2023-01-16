@@ -1,1 +1,0 @@
-Lets add 2 numbers by using a servlet
