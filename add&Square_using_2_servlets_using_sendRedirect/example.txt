@@ -1,1 +1,2 @@
 Add and Square using 2 servlets without RequestDispatcher
+By using URL Rewriting
